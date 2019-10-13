@@ -1,0 +1,9 @@
+------------- ORDER REPORT -------------
+Order id = 'My first order' summary:
+
+Item: name = Pizza cost = 7.50$
+Item: name = Burger cost = 4.00$
+Item: name = Sushi cost = 6.00$
+
+Total cost: 17.50$
+------------- END OF REPORT -------------
